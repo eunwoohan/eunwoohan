@@ -32,4 +32,5 @@ I majored in in information computer engineering,and still am studying to get a 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=haneunwoo&show_icons=true&theme=radical)
+
+[![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoohan)](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
