@@ -1,7 +1,7 @@
 
 ### Introduction
 <img src="https://img.shields.io/badge/gmail-wozlgks@pusan.ac.kr-red"/>
-<img src="https://img.shields.io/badge/blog-https://grave-slug-ebc.notion.site/Main-c11ca3575d204a09b5feab2f193e4a80-orange"/>
+https://grave-slug-ebc.notion.site/Main-c11ca3575d204a09b5feab2f193e4a80-orange
 
 The experience of quitting sports[Taekwondo,Soccer] and starting to study when I was 15 years old
 The experience of preparing for the college entrance exam again
