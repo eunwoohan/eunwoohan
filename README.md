@@ -3,9 +3,7 @@
 <img src="https://img.shields.io/badge/gmail-wozlgks@pusan.ac.kr-red"/>
 https://grave-slug-ebc.notion.site/Main-c11ca3575d204a09b5feab2f193e4a80-orange
 
-The experience of quitting sports[Taekwondo,Soccer] and starting to study when I was 15 years old
-The experience of preparing for the college entrance exam again
-And I chose the challenge of becoming a developer.
+
 
 I majored in in information computer engineering,and still am studying to get a job with backend and devops.
 
